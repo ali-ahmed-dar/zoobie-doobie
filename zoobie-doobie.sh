@@ -4,4 +4,4 @@
 # A simple demonstration of the zoobie-doobie concept
 # Usage: ./zoobie-doobie.sh
 
-echo "zoobie-doobie"
+echo "i zoobie doobied you"
