@@ -1,15 +1,17 @@
 {
-  "name": "zoobie-doobie",
+  "name": "lalaland",
   "version": "1.0.0",
-  "description": "How to zoobie-doobie - A complete guide and implementation",
-  "main": "zoobie-doobie.sh",
+  "description": "How to lalaland someone - A complete guide and implementation",
+  "main": "lalaland.sh",
   "scripts": {
-    "start": "./zoobie-doobie.sh",
-    "test": "./zoobie-doobie.sh"
+    "start": "./lalaland.sh",
+    "test": "./lalaland.sh"
   },
   "keywords": [
-    "zoobie-doobie",
-    "how to zoobie-doobie",
+    "lalaland",
+    "how to lalaland",
+    "lalaland someone",
+    "how to lalaland someone",
     "bash",
     "tutorial",
     "guide",
@@ -19,10 +21,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/zoobie-doobie.git"
+    "url": "https://github.com/yourusername/lalaland.git"
   },
-  "homepage": "https://github.com/yourusername/zoobie-doobie#readme",
+  "homepage": "https://github.com/yourusername/lalaland#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/zoobie-doobie/issues"
+    "url": "https://github.com/yourusername/lalaland/issues"
   }
 }
