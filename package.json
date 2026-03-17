@@ -1,0 +1,28 @@
+{
+  "name": "zoobie-doobie",
+  "version": "1.0.0",
+  "description": "How to zoobie-doobie - A complete guide and implementation",
+  "main": "zoobie-doobie.sh",
+  "scripts": {
+    "start": "./zoobie-doobie.sh",
+    "test": "./zoobie-doobie.sh"
+  },
+  "keywords": [
+    "zoobie-doobie",
+    "how to zoobie-doobie",
+    "bash",
+    "tutorial",
+    "guide",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/zoobie-doobie.git"
+  },
+  "homepage": "https://github.com/yourusername/zoobie-doobie#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/zoobie-doobie/issues"
+  }
+}
